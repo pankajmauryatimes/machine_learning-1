@@ -1,0 +1,24 @@
+http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb
+https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/fig_code/__init__.py
+https://www.wakari.io/sharing/bundle/krmckelv/How%20to%20Python%20Like%20A%20Boss?has_login=False
+https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb
+https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.2-Clustering-KMeans.ipynb
+https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/03.1-Classification-SVMs.ipynb
+https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/04.1-Dimensionality-PCA.ipynb
+http://neuralnetworksanddeeplearning.com/
+https://github.com/google/deepdream/blob/master/dream.ipynb
+
+Youtube vidoe on How K-Means algorithm works for unsupervised learning method of clustering
+https://www.youtube.com/watch?v=IuRb3y8qKX4
+
+Matplotlib.org has examples of plots which you could try in IPython
+http://matplotlib.org/examples/pylab_examples/triplot_demo.html
+
+Article on Linear Regression
+https://www.datarobot.com/blog/ordinary-least-squares-in-python/
+
+Machine Learning lectures and videos
+http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
+
+Scipy lectures
+http://www.scipy-lectures.org/
