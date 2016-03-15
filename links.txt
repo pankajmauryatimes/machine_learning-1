@@ -1,3 +1,6 @@
+Really cool stuff
+http://blaze.pydata.org/
+
 http://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb
 https://github.com/jakevdp/sklearn_pycon2015/blob/master/notebooks/fig_code/__init__.py
 https://www.wakari.io/sharing/bundle/krmckelv/How%20to%20Python%20Like%20A%20Boss?has_login=False
@@ -10,6 +13,18 @@ https://github.com/google/deepdream/blob/master/dream.ipynb
 
 Youtube vidoe on How K-Means algorithm works for unsupervised learning method of clustering
 https://www.youtube.com/watch?v=IuRb3y8qKX4
+
+Youtube video on A layman's introduction to principal component analysis
+https://www.youtube.com/watch?v=BfTMmoDFXyE
+
+Lecture by Prof Sengupta, IIT Kgp
+https://www.youtube.com/watch?v=H0HjNuNvFVI
+
+Latent Semantic Analysis
+https://www.youtube.com/watch?v=BJ0MnawUpaU
+
+Explaining TF-IDF concept with an example
+https://www.youtube.com/watch?v=hXNbFNCgPfY
 
 Matplotlib.org has examples of plots which you could try in IPython
 http://matplotlib.org/examples/pylab_examples/triplot_demo.html
