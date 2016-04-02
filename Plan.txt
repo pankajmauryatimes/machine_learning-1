@@ -1,0 +1,31 @@
+Till June 5, 2016: Machine Learning by Andrew Ng
+
+https://www.coursera.org/learn/machine-learning/home/welcome
+
+
+Other material on the cards:
+=============================
+
+Intro to statistics (2 months)
+
+https://www.udacity.com/course/intro-to-statistics--st101
+
+Introduction to Artificial Intelligence (4 months)
+
+https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
+
+Supervised Learning - ML series (2 months)
+
+https://www.udacity.com/course/machine-learning-supervised-learning--ud675
+
+Unsupervised Learning - ML series (2 months)
+
+https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741
+
+Reinforcement Learning - ML series (2 months)
+
+https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820
+
+Natural Language Processing (2 months)
+
+https://class.coursera.org/nlangp-001/lecture
