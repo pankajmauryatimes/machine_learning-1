@@ -29,3 +29,7 @@ https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820
 Natural Language Processing (2 months)
 
 https://class.coursera.org/nlangp-001/lecture
+
+Deep learning course (after ML)
+
+https://www.udacity.com/course/deep-learning--ud730
